@@ -1,2 +1,4 @@
-# SS_Recruitment_Tasks
-Rozwiązanie zadań rekrutacyjnych do koła Space Systems.
+# Rozwiązania zadań rekrutacyjnych (Space Systems)
+## Rozwiązane zadania Firmware:
+  - [X] Obsługa programowalnej diody RGB 
+  - [ ]
