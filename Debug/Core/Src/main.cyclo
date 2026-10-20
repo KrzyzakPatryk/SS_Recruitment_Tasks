@@ -1,0 +1,4 @@
+../Core/Src/main.c:68:6:RGB_to_GRB	4
+../Core/Src/main.c:91:5:main	8
+../Core/Src/main.c:203:6:SystemClock_Config	3
+../Core/Src/main.c:253:6:Error_Handler	1
